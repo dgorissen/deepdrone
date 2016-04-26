@@ -1,3 +1,6 @@
+Code behind the blog post here:
+https://dirkgorissen.com/2015/12/24/deep-drone-v2/
+
 The codebase consists of 3 parts that communicate over ZeroMQ:
 
 1. videograbber.py:
